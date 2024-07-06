@@ -1,3 +1,5 @@
+![Gautham R's Banner](https://media.licdn.com/dms/image/D5616AQHIrUOv3d5uYg/profile-displaybackgroundimage-shrink_350_1400/0/1720253970382?e=1725494400&v=beta&t=arclDR3RbTSOYImlEsV5PJ9fsWTQlE-ICUQesohVNHU)
+
 <div align="center">
 <h1>Hey there 👋, I'm Gautham Ramesh</h1>
 <h3>I'm an aspiring Web Designer, LeetCode enthusiast and graphic designer by passion.</h3>
