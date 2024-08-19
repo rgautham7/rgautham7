@@ -1,4 +1,4 @@
-![Gautham R's Banner](https://media.licdn.com/dms/image/D5616AQHIrUOv3d5uYg/profile-displaybackgroundimage-shrink_350_1400/0/1720253970382?e=1725494400&v=beta&t=arclDR3RbTSOYImlEsV5PJ9fsWTQlE-ICUQesohVNHU)
+![Gautham R's Banner](https://media.licdn.com/dms/image/v2/D5616AQEZJ9Kmy8BusA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720254338516?e=1729728000&v=beta&t=samfXKuASC3u-vZLm9GvW9TH8j5UdhxV5D5SE89Ag10)
 
 <div align="center">
 <h1>Hey there 👋, I'm Gautham Ramesh</h1>
