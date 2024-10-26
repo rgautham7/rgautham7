@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>Hey there 👋, I'm Gautham Ramesh</h1>
-<h3>Driven web development professional with more than 250 Leetcode conquests, fueled by a passion for innovation and growth. Seeking to harness deep technical expertise and results-oriented mindset to build impactful solutions that push the boundaries of online experiences</h3>
+<h4>Driven web development professional with more than 250 Leetcode conquests, fueled by a passion for innovation and growth. Seeking to harness deep technical expertise and results-oriented mindset to build impactful solutions that push the boundaries of online experiences</h4>
 </div>
 
 <h3>👨🏻‍💻 About Me</h3>
