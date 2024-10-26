@@ -2,18 +2,20 @@
 
 <div align="center">
 <h1>Hey there 👋, I'm Gautham Ramesh</h1>
-<h3>I'm an aspiring Web Designer, LeetCode enthusiast and graphic designer by passion.</h3>
+<h3>Driven web development professional with more than 250 Leetcode conquests, fueled by a passion for innovation and growth. Seeking to harness deep technical expertise and results-oriented mindset to build impactful solutions that push the boundaries of online experiences</h3>
 </div>
 
 <h3>👨🏻‍💻 About Me</h3>
 
 🎓 &nbsp;I’m currently pursuing **Computer Science and Engineering at VIT, Chennai**
 
-🌱 &nbsp;I’m on track for learning **MERN, Cloud services, DSA.**
+🌱 &nbsp;I’m on track for learning **MERN, Cloud Services, DSA.**
 
 📫 &nbsp;How to reach me **gauthamramesh93442@gmail.com**
 
-✍️ &nbsp;In my free time, **I do graphic designing, and podcasting**
+✍️ &nbsp;In my free time, **I do Graphic Designing, and Podcasting**
+
+😇 &nbsp;I am also, **Director of Community Welfare Dept in The Mind Palace Community**
 
 <h3>⚙️ GitHub Analytics</h3>
 
