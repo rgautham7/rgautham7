@@ -6,6 +6,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gautham-sedin&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
 <div align="center">
 <h1>Hey there 👋, I'm Gautham Ramesh</h1>
 <h4>Driven web development professional with more than 250 Leetcode conquests, fueled by a passion for innovation and growth. Seeking to harness deep technical expertise and results-oriented mindset to build impactful solutions that push the boundaries of online experiences</h4>
