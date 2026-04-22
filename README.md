@@ -22,7 +22,7 @@
 <p align="center">
 <a href="https://github.com/rgautham7">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgautham7&show_icons=true&locale=en&layout=compact" alt="rgautham7" />
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=rgautham7&" alt="rgautham7" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gautham-sedin&show_icons=true&locale=en" alt="gautham-sedin" /></p>
 </a>
 </p>
 
