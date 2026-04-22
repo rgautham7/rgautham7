@@ -2,7 +2,30 @@
 
 
 
-<h1>Hey there 👋, I'm Gautham Ramesh</h1>
+<!-- 🔥 Typing Heading -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=32&center=true&vCenter=true&width=600&lines=Hey+there👋!+Gautham+here!😉" />
+
+<br/>
+
+<!-- ⚡ Typing Subheading -->
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+Spring+Boot+%7C+AWS;Building+Scalable+Systems" />
+
+<br/><br/>
+
+<!-- 🏷️ Animated Badges -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<br/><br/>
+
+<!-- 👀 Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=gautham-sedin&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
 <h4>Driven web development professional with more than 250 Leetcode conquests, fueled by a passion for innovation and growth. Seeking to harness deep technical expertise and results-oriented mindset to build impactful solutions that push the boundaries of online experiences</h4>
 </div>
 
