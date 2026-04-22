@@ -1,14 +1,7 @@
-![Gautham R's Banner](https://media.licdn.com/dms/image/v2/D5616AQGcSAcEGBv63w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728627537845?e=1734566400&v=beta&t=-9XXaNxaYUFbLZdLWlYFvJgT53ziM6yMgsoXlHW9YeA)
+![Gautham R's Banner](https://media.licdn.com/dms/image/v2/D5616AQGcSAcEGBv63w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728627537845?e=1778716800&v=beta&t=Kyu9pBXT3sQXNIbYCo5HSyrGyzxi_xRVqGsJTgAXFSU)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+%7C+Spring+Boot+%7C+AWS;Building+Scalable+Systems" />
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gautham-sedin&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-<div align="center">
 <h1>Hey there 👋, I'm Gautham Ramesh</h1>
 <h4>Driven web development professional with more than 250 Leetcode conquests, fueled by a passion for innovation and growth. Seeking to harness deep technical expertise and results-oriented mindset to build impactful solutions that push the boundaries of online experiences</h4>
 </div>
