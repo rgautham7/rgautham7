@@ -1,5 +1,7 @@
 ![Gautham R's Banner](https://media.licdn.com/dms/image/v2/D5616AQGcSAcEGBv63w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728627537845?e=1734566400&v=beta&t=-9XXaNxaYUFbLZdLWlYFvJgT53ziM6yMgsoXlHW9YeA)
 
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+%7C+Spring+Boot+%7C+AWS;Building+Scalable+Systems" />
+
 <div align="center">
 <h1>Hey there 👋, I'm Gautham Ramesh</h1>
 <h4>Driven web development professional with more than 250 Leetcode conquests, fueled by a passion for innovation and growth. Seeking to harness deep technical expertise and results-oriented mindset to build impactful solutions that push the boundaries of online experiences</h4>
