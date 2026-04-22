@@ -15,8 +15,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <br/>
-<!-- 👀 Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=gautham-sedin&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gautham-sedin&theme=onestar&no-frame=true&row=1&column=6" />
+
 </div>
 <p>Driven web development professional with more than 250 Leetcode conquests, fueled by a passion for innovation and growth. Seeking to harness deep technical expertise and results-oriented mindset to build impactful solutions that push the boundaries of online experiences</p>
 </div>
