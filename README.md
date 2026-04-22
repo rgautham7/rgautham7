@@ -22,13 +22,13 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-🎓 &nbsp;I’m currently pursuing **Computer Science and Engineering at VIT, Chennai**
+🎓 &nbsp;I’m currently reporting as Software Developer at Sedin Technologies
 
-🌱 &nbsp;I’m on track for learning **MERN, Cloud Services, DSA.**
+🌱 &nbsp;I’m on track for learning **Angular, Spring Boot, DevOps & Cloud services.**
 
 📫 &nbsp;How to reach me **gauthamramesh93442@gmail.com**
 
-✍️ &nbsp;In my free time, **I do Graphic Designing, and Podcasting**
+✍️ &nbsp;In my free time, **I also do Graphic Designing, and Podcasting**
 
 😇 &nbsp;I am also, **Director of Community Welfare Dept in The Mind Palace Community**
 
