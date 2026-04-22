@@ -17,7 +17,7 @@
 <br/>
 
 </div>
-<p>Driven web development professional with more than 250 Leetcode conquests, fueled by a passion for innovation and growth. Seeking to harness deep technical expertise and results-oriented mindset to build impactful solutions that push the boundaries of online experiences</p>
+<p align="center">Driven web development professional with more than 250 Leetcode conquests, fueled by a passion for innovation and growth. Seeking to harness deep technical expertise and results-oriented mindset to build impactful solutions that push the boundaries of online experiences</p>
 </div>
 
 <h3>👨🏻‍💻 About Me</h3>
