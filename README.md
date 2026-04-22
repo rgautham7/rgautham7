@@ -4,7 +4,7 @@
 
 <!-- 🔥 Typing Heading -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=32&center=true&vCenter=true&width=600&lines=Hey+there👋!+Gautham+here!😉" />
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=32&center=true&vCenter=true&width=700&repeat=false&duration=4000&lines=Hey+there👋!+Gautham+here!😉" />
 <br/>
 
 <!-- ⚡ Typing Subheading -->
