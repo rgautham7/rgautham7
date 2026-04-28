@@ -44,8 +44,10 @@
 # 🛠 Tech Stack
 
 <div align="center">
+  <table width="100%">
+    <tr>
       <!-- LEFT SIDE: TECH STACK -->
-      <div align="left">
+      <td align="center" width="60%">
 
 <p>
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
@@ -74,20 +76,22 @@
 <img src="https://cdn.dribbble.com/userupload/24890778/file/original-d6503d19e09a7f7c0ce51e1eddbdc1c2.gif" width="50">
 </p>
 
-<div align="right">
-    <img 
-      src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" 
-      width="300"
-    />
-  </div>
+</td>
 
-  </div>
+<!-- RIGHT SIDE: GIF -->
+<td align="center" width="40%">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" 
+    width="300"
+  />
+</td>
 
-  <!-- RIGHT SIDE: GIF -->
-  
+</tr>
+  </table>
 </div>
 
 ---
+
 
 
 ## 🤝🏻 Connect with me
