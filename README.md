@@ -36,12 +36,12 @@
 
 <p align="center">
 <a href="https://github.com/rgautham7">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgautham7&show_icons=true&locale=en&layout=compact" alt="rgautham7" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rgautham7&show_icons=true&locale=en" alt="rgautham7" /></p>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgautham7&show_icons=true&locale=en&layout=compact&theme=radical" alt="rgautham7" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rgautham7&show_icons=true&locale=en&theme=radical" alt="rgautham7" /></p>
 </a>
 </p>
 
-<p align="center"> <a href="https://github.com/rgautham7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgautham7" alt="rgautham7" />
+<p align="center"> <a href="https://github.com/rgautham7/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=rgautham7&theme=radical" alt="rgautham7" />
 </a></p>
 
 # 🛠 Tech Stack
