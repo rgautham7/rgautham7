@@ -32,7 +32,7 @@
 
 😇 &nbsp;I am also, **Director of Community Welfare Dept in The Mind Palace Community**
 
-<h3>⚙️ GitHub Analytics</h3>
+# ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/rgautham7">
@@ -41,13 +41,13 @@
 </a>
 </p>
 
-<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
+<img align="right" style="position: relative; top: 5pt;" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 
 # 🛠 Tech Stack
 
 <div align="left">
 
-<b>💻 Programming Languages</b><br/>
+💻 Programming Language
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -55,7 +55,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
-<b>🌐 Frontend</b><br/>
+🌐 Frontend
 <p>
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
@@ -64,7 +64,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
 
-<b>⚙️ Backend & Databases</b><br/>
+⚙️ Backend & Databases
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <img src="https://img.icons8.com/color/1200/express-js.jpg" width="40"/>
@@ -74,7 +74,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
 </p>
 
-<b>☁️ DevOps & Tools</b><br/>
+☁️ DevOps & Tools
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
@@ -86,7 +86,7 @@
 </p>
 </div>
 
-<h3>🤝🏻 Connect with me</h3>
+## 🤝🏻 Connect with me
 
 <div align="left">
   <a href="https://linkedin.com/in/gauthamramesh07" target="_blank">
