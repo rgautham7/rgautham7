@@ -20,7 +20,7 @@
 <p align="center">Seeking to harness deep technical expertise and a result-oriented mindset to build impactful solutions that push the boundaries of online experiences, seamlessly integrating into any team. Proficient in the MERN stack with a strong foundation in problem-solving, adaptability, and analytical thinking to tackle complex challenges effectively.</p>
 </div>
 
-<h3>👨🏻‍💻 About Me</h3>
+# 👨🏻‍💻 About Me
 
 🎓 &nbsp;I’m currently reporting as Software Developer at Sedin Technologies
 
