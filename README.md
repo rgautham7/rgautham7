@@ -74,15 +74,17 @@
 <img src="https://cdn.dribbble.com/userupload/24890778/file/original-d6503d19e09a7f7c0ce51e1eddbdc1c2.gif" width="50">
 </p>
 
-  </div>
-
-  <!-- RIGHT SIDE: GIF -->
-  <div align="right">
+<div align="right">
     <img 
       src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" 
       width="300"
     />
   </div>
+
+  </div>
+
+  <!-- RIGHT SIDE: GIF -->
+  
 </div>
 
 ---
