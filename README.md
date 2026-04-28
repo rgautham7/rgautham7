@@ -41,6 +41,9 @@
 </a>
 </p>
 
+<p align="center"> <a href="https://github.com/rgautham7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgautham7" alt="rgautham7" />
+</a></p>
+
 # 🛠 Tech Stack
 
 <div align="center">
